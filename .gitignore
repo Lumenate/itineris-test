@@ -1,0 +1,9 @@
+.idea
+wp-config.php
+/.htaccess
+license.txt
+readme.html
+.DS_Store
+vendor
+node_modules
+public
